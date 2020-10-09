@@ -1,5 +1,6 @@
 # friendly-octo-happiness
-demo repo
+
+Introductory text helps people understand what is happening.
 
 We love a good README. We add things to it. Like sections
 
