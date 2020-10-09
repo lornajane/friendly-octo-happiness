@@ -20,7 +20,8 @@ Naming things is really difficult
 I do try hard but still.
 It can be tricky
 
-We can overcome
+We can overcome, see the two nice images
+
 
 ## Further reading
 
