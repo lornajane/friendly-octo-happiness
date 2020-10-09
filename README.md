@@ -25,3 +25,9 @@ We can overcome
 ## Further reading
 
 This is a good section
+
+Read these
+
+* https://gitworkbook.com
+* https://lornajane.net
+
